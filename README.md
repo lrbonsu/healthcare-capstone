@@ -167,8 +167,7 @@ Deploying this model as a discharge screening tool enables clinical teams to:
 
 ## Dashboard
 View the interactive Tableau dashboard here:
-[Healthcare Patient Readmission Analysis](https://public.tableau.com/app/profile/
-lynnetta.bonsu/viz/HealthcarePatientReadmissionAnalysis/HealthcarePatientReadmissionAnalysis)
+[Healthcare Patient Readmission Analysis](https://public.tableau.com/app/profile/lynnetta.bonsu/viz/HealthcarePatientReadmissionAnalysis/HealthcarePatientReadmissionAnalysis)
 
 ---
 
